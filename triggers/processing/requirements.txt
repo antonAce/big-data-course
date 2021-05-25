@@ -1,0 +1,13 @@
+azure-functions==1.7.0
+cassandra-driver==3.25.0
+click==8.0.0
+geomet==0.2.1.post1
+joblib==1.0.1
+nltk==3.6.2
+numpy==1.20.3
+regex==2021.4.4
+scikit-learn==0.24.2
+scipy==1.6.3
+six==1.16.0
+threadpoolctl==2.1.0
+tqdm==4.60.0
